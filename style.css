@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
