@@ -1,11 +1,15 @@
-*{
-    background-color: black;
+body{font-family: Arial}
+{color: red}
+
+<style>h2 {
+    font-size: 28px;
+    font-family: Arial;
 }
 
 h1 {
-    color: whitesmoke;
-    font-size: 58px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    font-size: 36px;
+    font-family: Arial
 }
+
+span color: black img width:150px height:150px
+p{font-family: Arial}
